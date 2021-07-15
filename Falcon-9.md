@@ -1,4 +1,4 @@
-The Falcon 9 is SpaceX's workhorse rocket. Part of the Falcon family, it uses nine Merlin engines for its first stage and one Merlin with a vacuum-optimized nozzle for its upper stage. There are 3 variants — v1.0, v1.1 (Block 4), and Block 5.
+The Falcon 9 is SpaceX's workhorse rocket. Part of the Falcon family, it uses nine Merlin engines for its first stage and one Merlin with a vacuum-optimized nozzle for its upper stage. There are 3 variants — v1.0, v1.1 (Block 4), and Block 5. It is represented by the Ghidorah parts in TundraExploration.
 
 ## Falcon 9 v1.0
 
