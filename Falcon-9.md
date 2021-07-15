@@ -18,7 +18,7 @@ From top to bottom
 
 * T-25 Fairing Adapter
   * G-01 Fairing Half (place in 2x symmetry on fairing adapter node)
-OR
+* *OR*
 * VC-13C SpaceCraft Separator
 * Ghidorah K2-81 Tank
 * RU-1C "Marlin" Vacuum Engine
@@ -36,7 +36,7 @@ From top to bottom
 
 * T-25 Fairing Adapter
   * G-01 Fairing Half (place in 2x symmetry on fairing adapter node)
-OR
+* *OR*
 * VC-13C SpaceCraft Separator
 * Ghidorah K2-81 Tank
 * RU-1K "Marlin" Vacuum Engine (New Base variant)
