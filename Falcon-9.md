@@ -12,6 +12,8 @@ From top to bottom
 * VL-9D "Octopus" Liquid Fuel Engine
 * (OPTIONAL) Bagorah 40 Launcher Platform
 
+![](https://cdn.discordapp.com/attachments/851210672728440842/865622307719348224/front_Untitled_Space_Craft_6.png)
+
 ## Falcon 9 v1.1
 
 From top to bottom
