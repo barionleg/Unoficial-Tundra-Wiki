@@ -32,6 +32,7 @@ From top to bottom
 * VL-9R "Octopus" Liquid Fuel Engine (White TPS variant)
 * (OPTIONAL) Ghidorah 40 Launcher Platform OR Ghidorah Launcher Platform
 
+![](https://cdn.discordapp.com/attachments/528453994407002114/865652586047733760/front_Untitled_Space_Craft_7.png)
 ## Falcon 9 Block 5
 
 From top to bottom
