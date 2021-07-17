@@ -4,7 +4,6 @@
   * [Falcon 1](https://github.com/FlightSimJeronimo/Unofficial-Tundra-Wiki/wiki/Falcon-1)
   * [Falcon 9](https://github.com/FlightSimJeronimo/Unofficial-Tundra-Wiki/wiki/Falcon-9)
   * [Falcon Heavy](https://github.com/FlightSimJeronimo/Unofficial-Tundra-Wiki/wiki/Falcon-Heavy)
-* ### [Starship](https://github.com/FlightSimJeronimo/Unofficial-Tundra-Wiki/wiki/Starship)
 
 ## Dragons
 
