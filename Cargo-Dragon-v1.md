@@ -5,7 +5,7 @@ From top to bottom
 * SX-21 Aerodynamic Shroud
 * Stock Clamp-O-Tron Docking Port
 * Gigan Command Pod
-  * Mk2-R Radial-Mount Parachute (place in mirror symmetry on back side of capsule, 15° offset from center)
+  * Mk2-R Radial-Mount Parachute (place in mirror symmetry on back side of capsule, 15° offset from center, use offset tool to put inside capsule)
 * PICA-289 Heatshield
 * SRC-9 Unpressurized Cargo Trunk
   * WK-41 1x4 Solar Array (place in 2-way symmetry on side of trunk)
