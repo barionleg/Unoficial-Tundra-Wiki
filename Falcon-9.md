@@ -51,4 +51,4 @@ From top to bottom
 * VL-9R "Octopus" Liquid Fuel Engine (Black TPS variant)
 * (OPTIONAL) Ghidorah 40 Launcher Platform OR Ghidorah Launcher Platform
 
-![](https://cdn.discordapp.com/attachments/774682971374092318/865920487673692160/front_Untitled_Space_Craft_3.png)
+![](https://cdn.discordapp.com/attachments/774682971374092318/865920745950412800/front_Untitled_Space_Craft_4.png)
