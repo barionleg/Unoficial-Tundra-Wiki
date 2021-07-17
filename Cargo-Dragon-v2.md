@@ -1,4 +1,4 @@
-The Cargo Dragon v2 is SpaceX's current cargo spacecraft. It is a modified version of the Crew Dragon spacecraft.
+The Cargo Dragon v2 is SpaceX's current cargo vehicle. Launched on a Falcon 9 Block 5, it is a modified version of the Crew Dragon spacecraft.
 
 From top to bottom
 
