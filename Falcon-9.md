@@ -50,3 +50,5 @@ From top to bottom
   * KRE Falcon Landing Gear Mk2 Medium (Black variant, place in 4x symmetry 45° offset from center, on bottom of tank [toggle soot for help with alignment])
 * VL-9R "Octopus" Liquid Fuel Engine (Black TPS variant)
 * (OPTIONAL) Ghidorah 40 Launcher Platform OR Ghidorah Launcher Platform
+
+![](https://cdn.discordapp.com/attachments/774682971374092318/865920487673692160/front_Untitled_Space_Craft_3.png)
